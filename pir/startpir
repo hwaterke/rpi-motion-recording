@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/pi/pir
+python pir.py &>/dev/null &

@@ -1,0 +1,2 @@
+This version of the script is used on a Raspberry ppi with an HDMIPI screen.
+In addition to logging motion in the database the script also turns off the screen after some inactivity and turns it back on when motion is detected.
